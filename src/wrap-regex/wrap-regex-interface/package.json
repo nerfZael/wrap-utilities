@@ -1,8 +1,8 @@
 {
-  "name": "templates-api-interface",
-  "description": "Web3API Interface Example",
+  "name": "wrap-regex-interface",
+  "description": "Wrapper regex interface for Polywrap Client",
   "private": true,
-  "version": "0.0.1-prealpha.61",
+  "version": "0.1.0",
   "scripts": {
     "build": "yarn build:web3api",
     "build:web3api": "npx w3 build",

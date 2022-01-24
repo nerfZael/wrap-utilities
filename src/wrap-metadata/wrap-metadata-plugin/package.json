@@ -1,8 +1,8 @@
 {
-  "name": "templates-plugin-typescript",
-  "description": "Web3API Plugin Typescript Template",
+  "name": "wrap-metadata-plugin-js",
+  "description": "Wrapper metadata plugin for Polywrap Client",
   "private": true,
-  "version": "0.0.1-prealpha.61",
+  "version": "0.1.0",
   "main": "build/index.js",
   "scripts": {
     "build": "rimraf ./build && tsc --project tsconfig.json",
